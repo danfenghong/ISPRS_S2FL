@@ -6,7 +6,7 @@ ___________
 
 The code in this toolbox implements the ["Multimodal Remote Sensing Benchmark Datasets for Land Cover Classification with A Shared and Specific Feature Learning Model"]. More specifically, it is detailed as follow.
 
-![alt text](./data.png)
+![alt text](./data.PNG)
 
 
 Citation
