@@ -2,6 +2,8 @@ clc;
 clear;
 close all;
 
+addpath('functions'); 
+
 %input data
 load data_HS_LR.mat;
 load data_MS_HR.mat;
