@@ -4,7 +4,7 @@
 
 ___________
 
-The code in this toolbox implements the ["Multimodal Remote Sensing Benchmark Datasets for Land Cover Classification with A Shared and Specific Feature Learning Model"]. More specifically, it is detailed as follow.
+The code in this toolbox implements the ["Multimodal Remote Sensing Benchmark Datasets for Land Cover Classification with A Shared and Specific Feature Learning Model"](https://www.sciencedirect.com/science/article/pii/S0924271621001362). More specifically, it is detailed as follow.
 
 ![alt text](./data.PNG)
 
@@ -14,12 +14,14 @@ Citation
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
-Danfeng Hong, Jingliang Hu, Jing Yao, Jocelyn Chanussot, Xiao Xiang Zhu. Multimodal Remote Sensing Benchmark Datasets for Land Cover Classification with A Shared and Specific Feature Learning Model, ISPRS Journal of Photogrammetry and Remote Sensing, 2021.
+Danfeng Hong, Jingliang Hu, Jing Yao, Jocelyn Chanussot, Xiao Xiang Zhu. Multimodal Remote Sensing Benchmark Datasets for Land Cover Classification with A Shared and Specific Feature Learning Model, ISPRS Journal of Photogrammetry and Remote Sensing, 2021, 178: 68-80.
 
      @article{hong2021multimodal,
       title     = {Multimodal Remote Sensing Benchmark Datasets for Land Cover Classification with A Shared and Specific Feature Learning Model},
       author    = {D. Hong and J. Hu and J. Yao and J. Chanussot and X. Zhu},
-      journal   = {ISPRS J. Photogramm. Remote Sens.}, 
+      journal   = {ISPRS J. Photogramm. Remote Sens.},
+      volume    = {178},
+      pages     = {68-80},
       year      = {2021}
      }
 
