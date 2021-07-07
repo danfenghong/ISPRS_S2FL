@@ -1,6 +1,6 @@
 # Multimodal Remote Sensing Benchmark Datasets for Land Cover Classification with A Shared and Specific Feature Learning Model
 
-[Danfeng Hong](https://sites.google.com/view/danfeng-hong), Jingliang Hu, [Jing Yao](https://scholar.google.com/citations?user=1SHd5ygAAAAJ&hl=en), [Jocelyn Chanussot](http://jocelyn-chanussot.net/), Xiao Xiang Zhu
+[Danfeng Hong](https://sites.google.com/view/danfeng-hong), Jingliang Hu, [Jing Yao](https://scholar.google.com/citations?user=1SHd5ygAAAAJ&hl=en), [Jocelyn Chanussot](http://jocelyn-chanussot.net/), [Xiao Xiang Zhu](https://scholar.google.com/citations?user=CNakdIgAAAAJ&hl=zh-CN)
 
 ___________
 
